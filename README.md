@@ -18,8 +18,9 @@ another round or to quit the program
 
 -Select size of game board
 
--Select weather to play against a computer upponent
-or another human upponent. In case of another human uponent, enter the upponent's name
+-Select whether to play against a computer upponentor another human upponent.
+
+In case of another human uponent, enter the upponent's name
 
 ![image](https://user-images.githubusercontent.com/105008868/179564448-eec5e52c-67ac-40f0-a045-c07f6295d6ae.png)
 
